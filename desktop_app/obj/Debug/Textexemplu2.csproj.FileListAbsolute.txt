@@ -1,0 +1,63 @@
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\concrt140.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\cvextern.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\msvcp140.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\opencv_ffmpeg320_64.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\vcruntime140.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.exe.config
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.exe
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.pdb
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.World.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\ZedGraph.dll
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.World.xml
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csprojResolveAssemblyReference.cache
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.Properties.Resources.resources
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csproj.GenerateResource.Cache
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.exe
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.pdb
+D:\Documents\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.Form2.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\concrt140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\cvextern.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\msvcp140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\vcruntime140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.exe.config
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.exe
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Textexemplu2.pdb
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\ZedGraph.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.xml
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\bin\Debug\Emgu.CV.World.xml
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csprojResolveAssemblyReference.cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.Form2.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.Properties.Resources.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csproj.GenerateResource.Cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csproj.CoreCompileInputs.cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.exe
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.pdb
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2\Textexemplu2\obj\Debug\Textexemplu2.csproj.CopyComplete
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\concrt140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\cvextern.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\msvcp140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\vcruntime140.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\Textexemplu2.exe
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\Textexemplu2.exe.config
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\Textexemplu2.pdb
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.csprojResolveAssemblyReference.cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.Form2.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.Properties.Resources.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.csproj.GenerateResource.cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.csproj.CoreCompileInputs.cache
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.csproj.CopyComplete
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.exe
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.pdb
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.PixelCalibration.resources
+C:\Provizoriu\Licenta\Salvari VS\Textexemplu2 new vHSVTest\Textexemplu2\obj\Debug\Textexemplu2.ManualDataAcquisition.resources
